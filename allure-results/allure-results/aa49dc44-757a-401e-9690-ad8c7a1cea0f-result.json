@@ -1,0 +1,121 @@
+{
+    "name": "Развертывания цитаты",
+    "start": 1695303152660,
+    "stop": 1695303172343,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+        {
+            "name": "Кликаем на поле Логин",
+            "start": 1695303161783,
+            "stop": 1695303161784,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Нажимает на кнопку Бабочка",
+            "start": 1695303169897,
+            "stop": 1695303169897,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Выбираем цитату нажимаем на стрелку вниз",
+            "start": 1695303170323,
+            "stop": 1695303170324,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        },
+        {
+            "name": "Текст цитаты разворачивается",
+            "start": 1695303170761,
+            "stop": 1695303170761,
+            "stage": "finished",
+            "description": null,
+            "descriptionHtml": null,
+            "status": "passed",
+            "statusDetails": null,
+            "steps": [
+            ],
+            "attachments": [
+            ],
+            "parameters": [
+            ]
+        }
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "aa49dc44-757a-401e-9690-ad8c7a1cea0f",
+    "historyId": "a3d5d886a1a9229b15bb9d846cb3be16",
+    "fullName": "ru.iteco.fmhandroid.ui.QuotesTest.deploymentQuotes",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.QuotesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "deploymentQuotes"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.QuotesTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(79)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Раздел Цитаты"
+        }
+    ]
+}

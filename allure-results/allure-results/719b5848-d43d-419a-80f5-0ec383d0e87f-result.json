@@ -1,0 +1,57 @@
+{
+    "name": "Фильтр Претензии",
+    "start": 1695284222192,
+    "stop": 1695284261402,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "719b5848-d43d-419a-80f5-0ec383d0e87f",
+    "historyId": "494aa9f10b7ba492812371be09364b4d",
+    "fullName": "ru.iteco.fmhandroid.ui.ClaimsTest.filterTest",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.ClaimsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "filterTest"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.ClaimsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(69)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Раздел Сlaims"
+        }
+    ]
+}

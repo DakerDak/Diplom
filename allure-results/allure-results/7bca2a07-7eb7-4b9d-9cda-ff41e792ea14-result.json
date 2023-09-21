@@ -1,0 +1,57 @@
+{
+    "name": "Добавление претензии с некоррктным временем",
+    "start": 1695290162782,
+    "stop": 1695290180594,
+    "stage": "finished",
+    "description": null,
+    "descriptionHtml": null,
+    "status": "passed",
+    "statusDetails": null,
+    "steps": [
+    ],
+    "attachments": [
+    ],
+    "parameters": [
+    ],
+    "uuid": "7bca2a07-7eb7-4b9d-9cda-ff41e792ea14",
+    "historyId": "ce7451f6aa18f90b4ea19c56b5de625",
+    "fullName": "ru.iteco.fmhandroid.ui.ClaimsTest.addNewClaimsIncorrectTime",
+    "labels": [
+        {
+            "name": "package",
+            "value": "ru.iteco.fmhandroid.ui"
+        },
+        {
+            "name": "testClass",
+            "value": "ru.iteco.fmhandroid.ui.ClaimsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "addNewClaimsIncorrectTime"
+        },
+        {
+            "name": "suite",
+            "value": "ru.iteco.fmhandroid.ui.ClaimsTest"
+        },
+        {
+            "name": "host",
+            "value": "localhost"
+        },
+        {
+            "name": "thread",
+            "value": "Instr: androidx.test.runner.AndroidJUnitRunner(79)"
+        },
+        {
+            "name": "framework",
+            "value": "junit4"
+        },
+        {
+            "name": "language",
+            "value": "kotlin"
+        },
+        {
+            "name": "epic",
+            "value": "Раздел Сlaims"
+        }
+    ]
+}
